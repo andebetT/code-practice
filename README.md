@@ -1,7 +1,5 @@
 # code-practice
 
-```md
-# Coding Practice Repository (Python)
 
 This repository contains my solutions and experiments for coding practice problems.  
 It’s focused on **data structures**, **algorithms**, and **string/array manipulation**—implemented mostly in **Python**.
